@@ -55,7 +55,7 @@ After applying PCA as a preprocessing step:
 
 The 3D plots revealed a structure composed of a **dense core** (where average faces cluster) and **outer arms** containing faces with distinctive features (glasses, facial hair, extreme poses).
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Language:** Python 3
 * **Main Libraries:**
